@@ -1,0 +1,2 @@
+model_checkpoint_path: "Model-Trained-On-Noise-Only"
+all_model_checkpoint_paths: "Model-Trained-On-Noise-Only"
